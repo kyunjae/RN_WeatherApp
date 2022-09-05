@@ -13,7 +13,7 @@ const App = () => {
   return (
     <SafeAreaView style={styles.container}>
         <View>
-          <Text>Hi! I'm going to make a RN weather App!</Text>
+          <Text>Hi! I'm going to make a RN App!</Text>
         </View>
     </SafeAreaView>
   );
